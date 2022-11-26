@@ -1,0 +1,17 @@
+{
+    "name": "sample/sample",
+    "autoload": {
+        "psr-4": {
+            "Sample\\Sample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "marcuszz",
+            "email": "marcuzcalaguas@gmail.com"
+        }
+    ],
+    "require": {
+        "tecnickcom/tcpdf": "^6.5"
+    }
+}
